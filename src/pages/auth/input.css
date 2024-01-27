@@ -1,0 +1,48 @@
+.inputLogin {
+    width: 100%;
+    background: #000;
+    border: 1px solid rgb(red, green, blue);
+    color: white;
+    position: relative;
+    outline: 0;
+
+    &::selection {
+        background: #000;
+    }
+
+    &:-internal-autofill-selected {
+        background: #000 !important;
+    }
+}
+
+.borderInput {
+    border: 1px solid rgb(51, 54, 57);
+    border-radius: 4px;
+    height: 58px;
+}
+
+.inputFocus {
+
+    padding-top: 8px;
+    font-size: 12px;
+    line-height: 16px;
+    transition: padding 0.2s;
+}
+
+.noInputFocus {
+    padding-top: 16px;
+    font-size: 17px;
+    line-height: 24px;
+    transition: padding 0.1s;
+
+}
+
+.labelInput {
+    padding-inline: 8px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    word-break: break-word;
+    pointer-events: none;
+    z-index: 4;
+}
