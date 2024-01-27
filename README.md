@@ -1,31 +1,7 @@
-# React + TypeScript + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
-  uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast
-  Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked`
-  or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and
-  add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![Снимок экрана (1427)](https://github.com/Tw0ur/Movie-Streaming-Website/assets/115350281/86a74fe7-4326-4dbf-9db1-12db8fadde75)
+![Снимок экрана (1428)](https://github.com/Tw0ur/Movie-Streaming-Website/assets/115350281/fbbef6ad-347b-4f06-a920-e22c949b2bc0)
+![Снимок экрана (1429)](https://github.com/Tw0ur/Movie-Streaming-Website/assets/115350281/04e907f8-1415-4a58-b9a7-68132365f6c7)
+![Снимок экрана (1430)](https://github.com/Tw0ur/Movie-Streaming-Website/assets/115350281/80905cd6-e382-4792-b2ae-38d38e5ff425)
+![Снимок экрана (1431)](https://github.com/Tw0ur/Movie-Streaming-Website/assets/115350281/26562940-1a87-44fc-b86e-07ae32b91265)
+![Снимок экрана (1433)](https://github.com/Tw0ur/Movie-Streaming-Website/assets/115350281/fc6b3dc0-75e0-4bbe-83ff-aeabee6d6275)
+![Снимок экрана (1434)](https://github.com/Tw0ur/Movie-Streaming-Website/assets/115350281/5bb3e85a-bf14-4a82-93e0-6c2653d69eb3)
